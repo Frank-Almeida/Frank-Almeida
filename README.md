@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Franklin Almeida! 👋
+### 🎓 MSc Data Science Student | Engineer | GenAI Enthusiast
 
-<!--
-**Frank-Almeida/Frank-Almeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an engineering graduate currently pursuing my MSc in Data Science. My focus is on the intersection of **Applied Statistics**, **Machine Learning**, and **Generative AI**.
 
-Here are some ideas to get you started:
+**🛠 Technical Stack**
+* **Languages:** Python 🐍, SQL, R
+* **Data Engineering:** ETL Pipelines, Power Query
+* **AI/ML:** LLMs, OpenAI API, Scikit-Learn
+* **Visualization:** Power BI, Excel (Advanced)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🚀 Featured Projects**
+* **SpeechQuest Pro:** A GenAI-powered tool for speech disorder detection (In Progress).
+* **Data Science Portfolio:** Statistical analysis and visualization projects.
+
+**📫 Connect with me**
+* [LinkedIn](www.linkedin.com/in/franklin-almeida)
